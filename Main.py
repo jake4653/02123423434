@@ -379,4 +379,4 @@ async def mines(interaction: discord.Interaction, serverhash: str, mines: str):
       rfile.close()
 
 
-bot.run("MTAzNzQ2NDMxODYyNDY4MTk4Ng.GADaP6.GbangevLbayriqStPTqlAN6A87GXkx4FFynIjM")
+bot.run(token)
